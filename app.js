@@ -1,5 +1,5 @@
 // this will include the app javascript code 
-function () {
+function helloWorld() {
 
     alert("Hello world!");
 }
