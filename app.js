@@ -3,3 +3,7 @@ function helloWorld() {
 
     alert("Hello world!");
 }
+
+function secondFunction(){
+    alert ("Hi from local ")
+}
